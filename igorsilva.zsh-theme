@@ -34,8 +34,8 @@ LCHAR='➤'
 #LCHAR='::'
 
 # OS X Only
-#LCHAR='👉🏻 '
-#LCHAR='👉🏿 '
+#LCHAR='👉🏻 ' LCHAR_WIDTH=%2G
+#LCHAR='👉🏿 ' LCHAR_WIDTH=%2G
 #LCHAR='❕ '
 #LCHAR='☕️ '
 #LCHAR='🖥 '
