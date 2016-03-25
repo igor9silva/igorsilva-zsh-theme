@@ -16,7 +16,7 @@ This theme is intended to be used with [oh-my-zsh](https://github.com/robbyrusse
 * The current folder
 * A customizable delimiter
 * The current branch
-* The current branch state (has `*` if uncommited changes)
+* The current branch state (shows `*` if has uncommited changes)
 
 ## Installation
 
@@ -30,7 +30,13 @@ Then add (or edit) this line as following in you `~/.zshrc` file
 ZSH_THEME="igorsilva"
 ```
 
-Open a new terminal window/tab and enjoy being minimal 😁
+Open a new terminal window/tab and enjoy being minimal 😙
+
+You can optionally customize the delimiter, just edit `~/.oh-my-zsh/themes/igorsilva.zsh-theme` and override `LCHAR`. Even emojis are supported!
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/igor9silva/zsh-theme/master/delimiters.jpg?" alt="demo"/>
+</p>
 
 ## Contributing
 
