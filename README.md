@@ -1,10 +1,10 @@
-# Miniminalist Theme for ZSH
+# Minimalist Theme for ZSH
 
 <p align="center">
 <i>Minimalist theme for oh-my-zsh.</i>
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/igor9silva/zsh-theme/master/igorsilva.gif?" alt="demo"/>
+    <img src="https://raw.githubusercontent.com/igor9silva/zsh-theme/master/igorsilva.gif" alt="demo"/>
 </p>
 
 ## Requirements
