@@ -34,10 +34,6 @@ Open a new terminal window/tab and enjoy being minimal 😙
 
 You can optionally customize the delimiter, just edit `~/.oh-my-zsh/themes/igorsilva.zsh-theme` and override `LCHAR`. Even emojis are supported!
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/igor9silva/zsh-theme/master/delimiters.jpg?" alt="demo"/>
-</p>
-
 ## Contributing
 
 1. Fork it!
